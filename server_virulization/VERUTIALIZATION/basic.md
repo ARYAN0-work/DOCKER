@@ -106,17 +106,6 @@ Each Virtual Machine gets:
 
 ---
 
-# Popular Hypervisor Providers
-
-Some commonly used Hypervisors are:
-
-- VMware vSphere
-- Xen
-- Microsoft Hyper-V
-- Linux KVM (Kernel-based Virtual Machine)
-- Oracle VM VirtualBox
-- VMware Workstation
-
 > These Hypervisors allow multiple Virtual Machines to run on a single physical server.
 
 ---
