@@ -11,3 +11,25 @@
 - Docker Compose
 - Persisting Container Data using Volumes and Bind Mounts
 - Capstone Project//
+
+## Why Docker?
+
+- **Environment Reproducibility**
+  - Everyone gets the exact same development environment.
+  - Eliminates the "works on my machine" problem.
+
+- **Dependency Management**
+  - Packages and dependencies are isolated inside containers.
+  - Avoids conflicts between different projects and operating systems.
+
+- **Portability**
+  - Run the same container on any machine:
+    - Development laptop
+    - Testing server
+    - Cloud instance
+    - Production server
+
+- **Version Control for Environments**
+  - Dockerfiles are plain text.
+  - They can be stored and version-controlled using Git.
+  - Easily recreate the same environment at any time.
